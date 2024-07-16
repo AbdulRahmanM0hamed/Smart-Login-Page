@@ -1,0 +1,23 @@
+header {
+    background-color: #24353f;
+}
+
+h1 ,h2 {
+    color: #17a2b8;
+}
+
+.intro {
+    box-shadow: -5px 1px 54px -9px rgb(0 0 0);
+}
+
+input::placeholder {
+    color: #ffffff64 !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: #fff;
+}
